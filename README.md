@@ -45,9 +45,8 @@ https://wokwi.com/projects/338354881900315218
 
 <a href="url"><img src="https://user-images.githubusercontent.com/102596180/181840854-2aa54434-8745-430b-bc24-c841f98585d3.jpeg" height="600" width="400" ></a>
 
+![WhatsApp Image 2022-07-28 at 22 26 34(1)](https://user-images.githubusercontent.com/102596180/181843823-c38e3e08-dd01-4e5b-9829-6a990c716e3f.jpeg)
 
-
-<a href="url"><img src="https://user-images.githubusercontent.com/102596180/181667198-e34d15d1-798a-466f-bfc7-6761b088b0cb.jpeg" align="left" height="900" width="1100" ></a>
 
 
 
