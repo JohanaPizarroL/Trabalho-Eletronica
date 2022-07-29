@@ -33,7 +33,7 @@ https://wokwi.com/projects/338354881900315218
 <img width="553" alt="Captura de Tela 2022-07-29 às 09 02 57" src="https://user-images.githubusercontent.com/102596180/181754527-4559fb00-4c95-4f7c-ad78-f78056b5db13.png">
 
 
-## Imagem do semáforo
+## Imagens do semáforo
 
 
 
