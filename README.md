@@ -3,7 +3,7 @@ Desenvolvendo um semáforo com arduino esp32
 
 ## Instruções:
 
-Construção de um seáforo com ajuda do arduino esp32. 
+Construção de um semáforo usando ESP32.
 
 ## Lista dos componentes:
 | Quantidade | Componentes        | Valor R$  |
@@ -15,7 +15,8 @@ Construção de um seáforo com ajuda do arduino esp32.
 
 ## Os componentes
 
-* **Esp32**: Placa ESP32 é uma série de microcontroladores de baixo custo e baixo consumo de energia. Também é um sistema em um chip com microcontrolador integrado.
+* **Esp32**: Placa ESP32 é uma série de microcontroladores de baixo custo e baixo consumo de energia. Também é um sistema em um chip com microcontrolador integrado. Possui WiFi e Bloototh 4.2 integrado, o que facilita o controle de projetos pela internet.
+A plaquinha possui conectores de Entrada/Saída para controle de circuitos externos. Também tem um conector mini-usb que facilita sua conexão com a porta USB do computador ou notebook.
 
 * **Resistores**: são os que complementam o circuito de para limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes e assim queimem.(BOOOOM!)
 
@@ -26,7 +27,7 @@ Construção de um seáforo com ajuda do arduino esp32.
 <img width="642" alt="Captura de Tela 2022-07-29 às 08 49 49" src="https://user-images.githubusercontent.com/102596180/181754630-b25ce046-cb57-4b59-99cc-6c0a3ad3c847.png">
 
 ## Link do simulador
-(https://wokwi.com/projects/338354881900315218)
+https://wokwi.com/projects/338354881900315218
 
 ## Código implementado
 <img width="553" alt="Captura de Tela 2022-07-29 às 09 02 57" src="https://user-images.githubusercontent.com/102596180/181754527-4559fb00-4c95-4f7c-ad78-f78056b5db13.png">
