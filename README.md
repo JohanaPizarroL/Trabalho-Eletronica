@@ -52,5 +52,5 @@ https://wokwi.com/projects/338354881900315218
 
 -  [Johana J. Pizarro Laquise](https://github.com/JohanaPizarroL)
 
--  [Livia Rosito Reis dos Santos]()
+-  [Livia Rosito Reis dos Santos](https://github.com/liviarosito)
 
