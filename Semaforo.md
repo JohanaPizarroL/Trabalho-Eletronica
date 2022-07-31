@@ -1,4 +1,4 @@
-# Projeto Eletrônica - USP
+# Semáforo - USP
 
 Desenvolvendo um semáforo com arduino esp32
 
