@@ -13,15 +13,16 @@ Construção de um semáforo usando ESP32.
 | 1          | Jumper preto       | R$ 1,00  |
 | **Total**  |                    |  R$ 74,50 |
 
-## Os componentes
 
-* **Esp32**: Placa ESP32 é uma série de microcontroladores de baixo custo e baixo consumo de energia. Também é um sistema em um chip com microcontrolador integrado. Possui WiFi e Bloototh 4.2 integrado, o que facilita o controle de projetos pela internet.
-A plaquinha possui conectores de Entrada/Saída para controle de circuitos externos. Também tem um conector mini-usb que facilita sua conexão com a porta USB do computador ou notebook.
-
-* **Resistores**: são os que complementam o circuito de para limitar a corrente e impedindo que a corrente do circuito ultrapasse os valores limites dos componentes e assim queimem.(BOOOOM!)
-
-* **Leds**: Nos mostra o funcionamento do semáforo, ligando um led de cada vez.
-
+## Objetivos → componentes
+* **Resistor**: Limitam a passagem (intensidade) de corrente elétrica e evitam danificar os componentes do circuito.
+* **Transistor**: Utilizado para amplificar ou atenuar a intensidade da corrente elétrica em circuitos.
+* **Ponte de diodo (ponte retificadora)**: A ponte retificadora de tensão transforma uma tensão alternada em tensão contínua. 
+* **Diodo Zener**: Utilizado no ajuste de tensão de ruptura do circuito.  Quando está polarizado diretamente, funciona como outro diodo qualquer, não conduz corrente elétrica enquanto a tensão aplicada aos seus terminais for acima de 13V.
+* **Potenciômetro**: Permite a variação do valor resistivo pelo movimento de um eixo, podendo ajustar o controle da tensão dentro do circuito entre 3V e 12V;
+* **Transformador**: Reduz a diferença de potencial elétrico de 127V da tensão de rede para a tensão de 3V a 12V.
+* **Capacitor**: utilizados para armazenar cargas elétricas, liberam corrente quando a tensão interna é menor que a tensão da sua própria estrutura, fazendo com que ocorra uma diminuição no valor do Ripple.
+* **LED e Protoboard**: Auxiliam no funcionamento do circuito.
 
 ## Imagem do circuito
 <img width="642" alt="Captura de Tela 2022-07-29 às 08 49 49" src="https://user-images.githubusercontent.com/102596180/181754630-b25ce046-cb57-4b59-99cc-6c0a3ad3c847.png">
