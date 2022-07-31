@@ -1,6 +1,8 @@
 # Semáforo - USP
 
-Desenvolvendo um semáforo com arduino esp32
+Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computação](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao#passarinho-experto-a-prova-de-recupera%C3%A7%C3%A3o-ser%C3%A1-explicar-o-que-aconteceu) ministrada pelo professor Eduardo do Valle Simoes no ICMC-USP.
+
+* Desenvolvendo um semáforo com arduino esp32
 
 ## Instruções:
 
@@ -64,4 +66,4 @@ Link:
 -  [Livia Rosito Reis dos Santos](https://github.com/liviarosito)
 
 
-## ICMC - USP
+## ICMC - USP 2022 - 1
