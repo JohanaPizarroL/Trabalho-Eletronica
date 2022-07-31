@@ -21,7 +21,7 @@ A plaquinha possui conectores de Entrada/Saída para controle de circuitos exter
 
 * **Resistores**: Limitam a passagem (intensidade) de corrente elétrica e evitam danificar os componentes do circuito.
 
-* **Leds**: Nos mostra o funcionamento do semáforo, ligando um led de cada vez.
+* **LED e Protoboard**: Auxiliam no funcionamento do circuito.
 
 ## Imagem do circuito
 <img width="642" alt="Captura de Tela 2022-07-29 às 08 49 49" src="https://user-images.githubusercontent.com/102596180/181754630-b25ce046-cb57-4b59-99cc-6c0a3ad3c847.png">
