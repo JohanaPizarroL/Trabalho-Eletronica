@@ -66,4 +66,5 @@ Link:
 -  [Livia Rosito Reis dos Santos](https://github.com/liviarosito)
 
 
-## ICMC - USP 2022 - 1
+## ICMC - USP
+### 2022 
