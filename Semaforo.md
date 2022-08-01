@@ -1,4 +1,4 @@
-# Semáforo - USP
+# Semáforo com Arduíno 
 
 Este projeto, realizado para a disciplina de [SSC0180 - Eletrônica para Computação](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao#passarinho-experto-a-prova-de-recupera%C3%A7%C3%A3o-ser%C3%A1-explicar-o-que-aconteceu) ministrada pelo professor Eduardo do Valle Simoes no ICMC-USP.
 
