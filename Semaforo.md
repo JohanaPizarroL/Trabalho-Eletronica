@@ -54,7 +54,8 @@ https://wokwi.com/projects/338354881900315218
 
 
 ## Vídeo no Youtube
-Link: 
+https://www.youtube.com/watch?v=7wtXohXg4Vs
+
 
 ## Alunos:
 -  [Bruna Romero Arraes](https://github.com/bruromero)
