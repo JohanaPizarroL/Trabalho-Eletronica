@@ -51,10 +51,16 @@ https://wokwi.com/projects/338354881900315218
 ![WhatsApp Image 2022-07-28 at 22 26 34(1)](https://user-images.githubusercontent.com/102596180/181843823-c38e3e08-dd01-4e5b-9829-6a990c716e3f.jpeg)
 
 
+## Vídeo Explicativo
 
+https://user-images.githubusercontent.com/102596180/182206089-89c5be50-d6d1-4c85-942a-0dc269dfe5b9.mp4
+
+
+
+Clique [aqui](https://www.youtube.com/watch?v=7wtXohXg4Vs) para assistir ao vídeo explicativo acerca dos cálculos feitos para a elaboração do projeto e do circuito no Falstad, bem como para ver a fonte em funcionamento.
 
 ## Vídeo no Youtube
-https://www.youtube.com/watch?v=7wtXohXg4Vs
+
 
 
 ## Alunos:
